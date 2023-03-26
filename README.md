@@ -60,8 +60,8 @@
 ---
 
 ### Fotos de juego completado:
-   + ![Git learn game](/img/1.jpg)
-   + ![Git learn game](/img/2.jpg)
+![Git learn game](/img/1.jpg)
+![Git learn game](/img/2.jpg)
 
 ### Creador:
    + #### Limberth Romero. 2022/0278
